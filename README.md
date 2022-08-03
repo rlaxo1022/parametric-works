@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tae-Kyung Kim
-- 👀 I’m interested in BIM, Computational desing, and Digital fabrication
+- 👋 Hi, I’m Tae-Kyung Kim in South Korea
+- 👀 I’m interested in BIM, Computational desing, Aesthetic designs of infrastructures, and Digital fabrication
 - 🌱 I’m currently researching 3D concrete printing 
 - 📫 Please send me a mail to rlaxo1022@cau.ac.kr if you're interested in my materials!
 

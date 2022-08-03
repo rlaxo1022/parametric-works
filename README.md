@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tae-Kyung Kim
-- 👀 I’m interested in BIM and Digital Manufacturing of Construction
-- 🌱 I’m currently learning 3D concrete printing and ML. 
-- 📫 rlaxo1022@cau.ac.kr
+- 👀 I’m interested in BIM, Computational desing, and Digital fabrication
+- 🌱 I’m currently researching 3D concrete printing 
+- 📫 Please send me a mail to rlaxo1022@cau.ac.kr if you're interested in my materials!
 
 <!---
 rlaxo1022/rlaxo1022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
